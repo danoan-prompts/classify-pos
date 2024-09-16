@@ -1,0 +1,30 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "fool"
+    },
+    "output": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "input": {
+      "language": "french",
+      "message": "bourru"
+    },
+    "output": [
+      "adjective"
+    ]
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "pazzesco"
+    },
+    "output": [
+      "adjective"
+    ]
+  }
+]
